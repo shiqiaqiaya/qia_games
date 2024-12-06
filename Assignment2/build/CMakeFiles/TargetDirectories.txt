@@ -1,3 +1,0 @@
-D:/ShenZhenUniversity/game101/Assignment2/build/CMakeFiles/Rasterizer.dir
-D:/ShenZhenUniversity/game101/Assignment2/build/CMakeFiles/edit_cache.dir
-D:/ShenZhenUniversity/game101/Assignment2/build/CMakeFiles/rebuild_cache.dir

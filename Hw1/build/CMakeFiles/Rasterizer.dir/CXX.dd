@@ -1,7 +1,0 @@
-ninja_dyndep_version = 1.0
-build CMakeFiles/Rasterizer.dir/main.cpp.obj: dyndep
-
-build CMakeFiles/Rasterizer.dir/rasterizer.cpp.obj: dyndep
-
-build CMakeFiles/Rasterizer.dir/Triangle.cpp.obj: dyndep
-

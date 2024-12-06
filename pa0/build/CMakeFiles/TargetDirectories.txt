@@ -1,3 +1,0 @@
-D:/ShenZhenUniversity/game101/pa0/build/CMakeFiles/Transformation.dir
-D:/ShenZhenUniversity/game101/pa0/build/CMakeFiles/edit_cache.dir
-D:/ShenZhenUniversity/game101/pa0/build/CMakeFiles/rebuild_cache.dir
