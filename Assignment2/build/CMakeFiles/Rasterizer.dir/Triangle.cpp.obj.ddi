@@ -1,0 +1,11 @@
+{
+"rules": [
+{
+"primary-output": "CMakeFiles\\Rasterizer.dir\\Triangle.cpp.obj",
+"requires": [
+]
+}
+],
+"version": 0,
+"revision": 0
+}
